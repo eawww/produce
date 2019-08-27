@@ -1,0 +1,14 @@
+{
+  "name": "produce-commands",
+  "version": "1.0.0",
+  "description": "A collection of scripts, 32 lines or less, to enhance your productivity and, therefore, your worth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Wilson",
+  "license": "ISC",
+  "bin": {
+    "produce": "./index.js"
+  }
+}
